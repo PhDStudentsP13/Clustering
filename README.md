@@ -9,10 +9,10 @@ Welcome to this readme which has a general informative purpose in order to give 
 # Algorithms
 ## Working on scalar data
 * [K-Means](https://en.wikipedia.org/wiki/K-means_clustering)
-  * Time complexity **O(__k.d.t.n__)**
+  * Time complexity **O(_k.d.t.n_)**
     * k : number of cluster
     * t : maximum number of iterations
-  * Memory complexity **O(__k.d__)**
+  * Memory complexity **O(_k.d_)**
 * [DBScan](https://en.wikipedia.org/wiki/DBSCAN)
 * [HDBScan]()
 * [Self Organizing Maps]()
@@ -22,7 +22,7 @@ Welcome to this readme which has a general informative purpose in order to give 
 ## Working on mixt data
 * [K-Prototypes]()
 
-# Scalable algorithms version
+# Scalable algorithms and their implementations
 ## Working on scalar data
 * [K-Means](https://en.wikipedia.org/wiki/K-means_clustering)
   * [Spark implementation](https://spark.apache.org/docs/latest/mllib-clustering.html)
