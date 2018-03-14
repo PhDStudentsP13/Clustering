@@ -14,13 +14,25 @@ Welcome to this readme which has a general informative purpose in order to give 
     * t : maximum number of iterations
   * Memory complexity **O(_k.d_)**
 * [DBScan](https://en.wikipedia.org/wiki/DBSCAN)
+  * Time complexity
+  * Memory complexity
 * [HDBScan]()
+  * Time complexity
+  * Memory complexity
 * [Self Organizing Maps]()
+  * Time complexity
+  * Memory complexity
 * [Mean Shift](https://en.wikipedia.org/wiki/Mean_shift)
+  * Time complexity
+  * Memory complexity
 ## Working on binary data
 * [K-Modes]()
+  * Time complexity
+  * Memory complexity
 ## Working on mixt data
 * [K-Prototypes]()
+  * Time complexity
+  * Memory complexity
 
 # Scalable algorithms and their implementations
 ## Working on scalar data
@@ -37,6 +49,9 @@ Welcome to this readme which has a general informative purpose in order to give 
 * [Mean Shif LSH](https://github.com/beckgael/Mean-Shift-LSH)
 ## Python
 * [Scikit Learn](http://scikit-learn.org/stable/modules/clustering.html#clustering)
+
+# Usefull references
+
 
 
 # Works of Paris 13 university PhD Students
