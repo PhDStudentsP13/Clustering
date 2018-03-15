@@ -12,27 +12,20 @@ Welcome to this readme which has a general informative purpose in order to give 
   * Time complexity **O(_k.d.t.n_)**
     * k : number of cluster
     * t : maximum number of iterations
-  * Memory complexity **O(_k.d_)**
 * [DBScan](https://en.wikipedia.org/wiki/DBSCAN)
   * Time complexity
-  * Memory complexity
 * [HDBScan]()
   * Time complexity
-  * Memory complexity
 * [Self Organizing Maps]()
   * Time complexity
-  * Memory complexity
 * [Mean Shift](https://en.wikipedia.org/wiki/Mean_shift)
   * Time complexity
-  * Memory complexity
 ## Working on binary data
 * [K-Modes]()
   * Time complexity
-  * Memory complexity
 ## Working on mixt data
 * [K-Prototypes]()
   * Time complexity
-  * Memory complexity
 
 # Scalable algorithms and their implementations
 ## Working on scalar data
@@ -45,7 +38,7 @@ Welcome to this readme which has a general informative purpose in order to give 
 # Library and algorithms implementations
 ## Scala
 * [Smile](https://haifengl.github.io/smile/clustering.html)
-# Spark
+## Spark
 * [Mean Shif LSH](https://github.com/beckgael/Mean-Shift-LSH)
 ## Python
 * [Scikit Learn](http://scikit-learn.org/stable/modules/clustering.html#clustering)
@@ -55,4 +48,4 @@ Welcome to this readme which has a general informative purpose in order to give 
 
 
 # Works of Paris 13 university PhD Students
-## [Cluster of clustering algorithms](https://github.com/Spark-clustering-notebook)
+* [Cluster of clustering algorithms](https://github.com/Spark-clustering-notebook)
