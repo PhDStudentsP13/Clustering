@@ -44,7 +44,7 @@ Welcome to this readme which has a general informative purpose in order to give 
 * [Scikit Learn](http://scikit-learn.org/stable/modules/clustering.html#clustering)
 
 # Usefull references
-
+*[The 5 Clustering Algorithms Data Scientists Need to Know](https://towardsdatascience.com/the-5-clustering-algorithms-data-scientists-need-to-know-a36d136ef68)
 
 
 # Works of Paris 13 university PhD Students
