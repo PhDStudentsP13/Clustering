@@ -9,20 +9,22 @@ Welcome to this readme which has a general informative purpose in order to give 
 # Algorithms
 
 ## Different type of clustering algorithm
-* [Partitioning methods](http://users.jyu.fi/~samiayr/pdf/introtoclustering_report.pdf)
-  * _K_-Means
-* [Hierarchical clustering](https://onlinelibrary.wiley.com/doi/full/10.1002/widm.53)
-* Fuzzy clustering
-* Density-based clustering
-  * DBScan
-  * HDBScan
-  * Mean Shift
-* Model-based clustering
-  * Gaussian mixture
-* Combinatorial clustering
+* Batch clustering
+  * [Partitioning methods](http://users.jyu.fi/~samiayr/pdf/introtoclustering_report.pdf)
+    * _K_-Means
+  * [Hierarchical clustering](https://onlinelibrary.wiley.com/doi/full/10.1002/widm.53)
+  * Fuzzy clustering
+  * Density-based clustering
+    * DBScan
+    * HDBScan
+    * Mean Shift
+  * Model-based clustering
+    * Gaussian mixture
+  * Combinatorial clustering
+* [Streaming clustering](https://en.wikipedia.org/wiki/Data_stream_clustering)
 
 ## Working on scalar data
-* [K-Means](https://en.wikipedia.org/wiki/K-means_clustering)
+* [_K_-Means](https://en.wikipedia.org/wiki/K-means_clustering)
   * Time complexity **O(_k.d.t.n_)**
     * k : number of cluster
     * t : maximum number of iterations
